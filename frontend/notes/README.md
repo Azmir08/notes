@@ -1,4 +1,6 @@
-# NPM package install in backend
+# Backend ------------------------
+
+# NPM package install
 
 - bcrypt
 - cors
@@ -11,3 +13,18 @@
 # Generate access token in nodejs
 
 - node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+
+# Frontend --------------------------
+
+# NPM package install
+
+- axios
+- framer-motion
+- moment
+- moment-timezone
+- react
+- react-dom
+- react-hot-toast
+- react-icons
+- react-modal
+- react-router-dom
