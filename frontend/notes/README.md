@@ -1,5 +1,9 @@
 # Backend ------------------------
 
+# Ratelimit
+
+- upstash
+
 # NPM package install
 
 - bcrypt
@@ -9,6 +13,8 @@
 - jsonwebtoken
 - mongoose
 - nodemon
+- @upstash/ratelimit
+- @upstash/redis
 
 # Generate access token in nodejs
 
