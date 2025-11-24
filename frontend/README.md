@@ -10,6 +10,7 @@
 - express
 - mongoose
 - nodemon
+- cors
 - @upstash/ratelimit
 - @upstash/redis
 
