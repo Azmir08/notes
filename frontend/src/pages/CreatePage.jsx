@@ -58,7 +58,7 @@ const CreatePage = () => {
                   <input
                     type="text"
                     placeholder="Note Title"
-                    className="input input-bordered"
+                    className="input w-full"
                     value={title}
                     onChange={(e) => setTitle(e.target.value)}
                   />
@@ -67,7 +67,7 @@ const CreatePage = () => {
                   <legend>Content</legend>
                   <textarea
                     placeholder="Write your note here..."
-                    className="textarea h-32"
+                    className="textarea h-32 w-full"
                     value={content}
                     onChange={(e) => setContent(e.target.value)}
                   />
